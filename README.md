@@ -1,2 +1,2 @@
 # ISRO
-Indian Space Research Organization API
+Indian Space Research Organisation API
